@@ -1,7 +1,6 @@
 public/*
 !public/wp-content/
 public/wp-content/*
-!public/wp-content/mu-plugins/
 !public/wp-content/themes/
 public/wp-content/themes/*
 !public/wp-content/themes/uncode-child/
